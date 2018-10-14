@@ -1,0 +1,18 @@
+Election Results
+----------------------------
+Total Votes: 3521001
+----------------------------
+Khan        63.0
+Correy      20.0
+Li          14.0
+O'Tooley     3.0
+Name: Candidate, dtype: float64, [2218231  704200  492940  105630]
+----------------------------
+Khan        2218231
+Correy       704200
+Li           492940
+O'Tooley     105630
+Name: Candidate, dtype: int64
+----------------------------
+Winner: Khan 2218231
+----------------------------
